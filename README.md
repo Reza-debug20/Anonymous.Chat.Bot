@@ -53,6 +53,8 @@ README.md → Project documentation
 ---
 
 
+Project structure ✅
+
 AnonymousChatBot/
 │
 ├── bot.py          # کد اصلی ربات
